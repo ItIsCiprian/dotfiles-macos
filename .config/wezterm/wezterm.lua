@@ -5,7 +5,7 @@ local config = wezterm.config_builder()
 -- Basic configuration
 config.color_scheme = "Catppuccin Macchiato"
 config.font = wezterm.font("MesloLGS Nerd Font")
-config.font_size = 12
+config.font_size = 10
 config.enable_tab_bar = true
 config.window_decorations = "TITLE | RESIZE"
 config.window_background_opacity = 1.0
